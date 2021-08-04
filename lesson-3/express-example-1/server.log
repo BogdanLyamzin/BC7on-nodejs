@@ -1,0 +1,13 @@
+04-08-2021_09:11:49 GET /
+04-08-2021_09:12:13 GET /contacts
+04-08-2021_09:12:31 GET /contacts
+04-08-2021_09:12:42 GET /products
+04-08-2021_09:12:45 POST /products
+04-08-2021_09:17:59 GET /products
+04-08-2021_09:18:14 GET /products
+04-08-2021_09:18:23 GET /products/3qdsdfsdfd
+04-08-2021_09:18:38 GET /products/3qdsdfsdfd
+04-08-2021_09:18:56 GET /products/3qdsdfsdfd
+04-08-2021_09:19:09 GET /products/3qdsdfsdfd
+04-08-2021_09:19:13 GET /products
+04-08-2021_09:19:18 GET /products/452
